@@ -15,6 +15,9 @@ Generell stammen alle Angaben von der Locomore-Webseite und aus dem Buchungsproz
 ### calendar.txt
 * `start_date,end_date` von https://locomore.com/de/faq/ (Buchungszeitraum)
 
+### routes.txt
+* `route_color,route_text_color` aus dem CSS von https://locomore.com
+
 ### stops.txt:
 * `stop_id,stop_code,stop_name` von https://booking.locomore.com/api/stations
 * `stop_lat,stop_lon` durch Gecoding mittels https://geocoder.opencagedata.com, Daten von [OpenStreetMap](https://openstreetmap.org) contributors ([ODbL](http://opendatacommons.org/licenses/odbl/1.0/summary/))
