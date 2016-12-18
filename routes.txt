@@ -1,3 +1,3 @@
-route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
-1,LM,LM 1818,Stuttgart Hbf-Berlin Hbf,2,F57E20,4B2B1F
-2,LM,LM 1819,Berlin Hbf-Stuttgart Hbf,2,F57E20,4B2B1F
+route_id,agency_id,route_short_name,route_long_name,route_type,route_url,route_color,route_text_color
+1,LM,LM 1818,Stuttgart Hbf - Berlin-Lichtenberg,2,https://locomore.com/de/fahrplan/,F57E20,4B2B1F
+2,LM,LM 1819,Berlin-Lichtenberg - Stuttgart Hbf,2,https://locomore.com/de/fahrplan/,F57E20,4B2B1F
