@@ -1,2 +1,2 @@
 agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
-LOC,Locomore,https://locomore.com,Europe/Berlin,de,+49(0)30 9203578-9,https://locomore.com/de/tarife/,info@locomore.com
+LM,Locomore,https://locomore.com,Europe/Berlin,de,+49(0)30 9203578-9,https://locomore.com/de/tarife/,info@locomore.com

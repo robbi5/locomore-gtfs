@@ -1,3 +1,3 @@
 route_id,agency_id,route_short_name,route_long_name,route_type
-1,LOC,TS-BLS,Stuttgart Hbf-Berlin Hbf,2
-2,LOC,BLS-TS,Berlin Hbf-Stuttgart Hbf,2
+1,LM,TS-BLS,Stuttgart Hbf-Berlin Hbf,2
+2,LM,BLS-TS,Berlin Hbf-Stuttgart Hbf,2
