@@ -9,7 +9,7 @@
 Generell stammen alle Angaben von der Locomore-Webseite und aus dem Buchungsprozess.
 
 ### agency.txt:
-* `agency_id` aus https://booking.locomore.com/api/journey-search (LM, nicht LOC, wie im DB-Buchungsprozess)
+* `agency_id` aus https://booking.locomore.com/api/journey-search
 * `agency_phone,agency_email` von https://locomore.com/de/kontakt/
 
 ### calendar.txt
