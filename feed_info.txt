@@ -1,2 +1,2 @@
 feed_publisher_name,feed_publisher_url,feed_lang,feed_version
-"Locomore GTFS (unofficial)",https://github.com/robbi5/locomore-gtfs,de,20161218-04
+"Locomore GTFS (unofficial)",https://github.com/robbi5/locomore-gtfs,de,20170106-01

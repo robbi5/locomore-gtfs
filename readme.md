@@ -13,7 +13,7 @@ Generell stammen alle Angaben von der Locomore-Webseite und aus dem Buchungsproz
 * `agency_phone,agency_email` von https://locomore.com/de/kontakt/
 
 ### calendar.txt
-* `start_date,end_date` von https://locomore.com/de/faq/ (Buchungszeitraum)
+* `start_date,end_date` von https://locomore.com/de/faq/ (Buchungszeitraum) und [issue #3](https://github.com/robbi5/locomore-gtfs/issues/3)
 
 ### routes.txt
 * `route_color,route_text_color` aus dem CSS von https://locomore.com
