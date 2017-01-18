@@ -1,3 +1,7 @@
 route_id,service_id,trip_id
-1,ALL,1
-2,ALL,2
+1,PRE,1
+2,PRE,2
+1,BQ1818,3
+2,BQ1819,4
+1,POST,5
+2,POST,6
