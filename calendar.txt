@@ -1,2 +1,5 @@
 service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-ALL,1,1,1,1,1,1,1,20161214,20171209
+PRE,1,1,1,1,1,1,1,20161214,20170122
+BQ1818,1,0,0,0,1,1,1,20170123,20170406
+BQ1819,0,0,0,1,1,1,1,20170123,20170406
+POST,1,1,1,1,1,1,1,20170407,20171209
